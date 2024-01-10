@@ -6,8 +6,8 @@
 **Business:** Solution selling, consulting, troubleshooting, value engineering, business analysis, CRM, project management
 
 ## Education and Certifications							       		
-- MBA, Business Administration | University of Nevada, Reno (_2016_)	 			        		
-- BS, Information Systems | University of Nevada, Reno (_2015_)
+- MBA, Business Administration |||||| University of Nevada, Reno (_2016_)	 			        		
+- BS, Information Systems ||||||||||| University of Nevada, Reno (_2015_)
 - Cert, BI Data Analyst Certificate | Codecademy (_2024_)
 
 ## Work Experience
@@ -46,14 +46,14 @@ Used **Python** for descriptive analysis, data visualizations, and predictive mo
 #### A Game of Roulette: Airplane-Wildlife Collisions 2001-2015
 Visualized airplane-wildlife collisions data to show which airports had the highest wildlife strike-related costs, the most wildlife collisions, and the most human passengers during this period. Out of over 28,000 wildlife strikes on airplanes recorded between 2001-2015, 94.7%  of collisions cost airlines and aiports $0 in aircraft repairs. However, the remaining 5.3% of collisions account for over $100 billion of damage in addition to the countless animal deaths incurred by collisions. 
 
-![Airplane-Wildlife Collisions Viz](/assets/img/Airplane-Wildlife_Collisions.png)
+![Airplane-Wildlife Collisions Viz](/assets/img/airplanewildlifecollisions.png)
 
 [Tableau Viz Link Airplane-Wildlife Collisions](https://public.tableau.com/views/AGameofRouletteAirplane-WildlifeCollisions2001-2015_17038299399940/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 #### Trees vs Neighborhood Income in NYC
 Visualized tree and income data in New York City to see how neighbohood income impacts their trees. Neighborhood income did not seem to have a noticable effect on the count of trees in a neighborhood. For example, it was discovered that Queens is a middle income neighborhood, but they also have the highest tree count. However, the data does suggest that nieghborhood income does impact the health of trees. For example, segregating neighborhoods into poor vs rich areas showed that tree health is worst in the poor areas vs the rich. This could possibly suggest poorer areas have more pollution, or maybe they have less resources for taking care of their trees.
 
-![Trees vs Income Viz](/assets/img/tree_vs_income_NYC.png)
+![Trees vs Income Viz](/assets/img/treesnyc.png)
 
 [Tableau Viz Link Trees vs Income](https://public.tableau.com/shared/4KDW9X8SD?:display_count=n&:origin=viz_share_link)
 
