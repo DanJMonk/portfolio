@@ -6,9 +6,9 @@
 **Business:** Solution selling, consulting, troubleshooting, value engineering, business analysis, CRM, project management
 
 ## Education and Certifications							       		
-- MBA, Business Administration | The University of Nevada, Reno (_2016_)	 			        		
-- BS, Information Systems | The University of Nevada, Reno (_2015_)
-- Cert, Business Intelligence Data Analyst Certificate, Codecademy (_2024_)
+- MBA, Business Administration| University of Nevada, Reno (_2016_)	 			        		
+- BS, Information Systems| University of Nevada, Reno (_2015_)
+- Cert, BI Data Analyst Certificate| Codecademy (_2024_)
 
 ## Work Experience
 **Consultant @ Dan Automates (_2022 - Present_)**
@@ -46,7 +46,7 @@ Used **Python** for descriptive analysis, data visualizations, and predictive mo
 #### A Game of Roulette: Airplane-Wildlife Collisions 2001-2015
 Visualized airplane-wildlife collisions data to show which airports had the highest wildlife strike-related costs, the most wildlife collisions, and the most human passengers during this period. Out of over 28,000 wildlife strikes on airplanes recorded between 2001-2015, 94.7%  of collisions cost airlines and aiports $0 in aircraft repairs. However, the remaining 5.3% of collisions account for over $100 billion of damage in addition to the countless animal deaths incurred by collisions. 
 
-![Airplane-Wildlife Collisions](/assets/img/airplane-wildlife_collisions.png)
+![Airplane-Wildlife Collisions](/assets/img/Airplane-Wildlife_Collisions.png)
 
 ![Tableau Viz Link Airplane-Wildlife Collisions](https://public.tableau.com/views/AGameofRouletteAirplane-WildlifeCollisions2001-2015_17038299399940/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
