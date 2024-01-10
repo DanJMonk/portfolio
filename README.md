@@ -6,9 +6,10 @@
 **Business:** Solution selling, consulting, troubleshooting, value engineering, business analysis, CRM, project management
 
 ## Education and Certifications							       		
-- MBA, Business Administration | University of Nevada, Reno (_2016_)	 			        		
-- BS, Information Systems      | University of Nevada, Reno (_2015_)
-- Cert, BI Data Analyst        | Codecademy (_2024_)
+- MBA, University of Nevada, Reno (_2016_)	 			        		
+- BS, Information Systems, University of Nevada, Reno (_2015_)
+- BI Data Analyst Certificate, Codecademy (_2024_)
+
 
 ## Work Experience
 **Consultant @ Dan Automates (_2022 - Present_)**
