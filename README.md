@@ -44,6 +44,13 @@ Used **Python** for descriptive analysis, data visualizations, and predictive mo
 [Publication Link: National Park Species Analysis](https://github.com/DanJMonk/NationalParksSpeciesAnalysis)
 
 ### Tableau
+#### Product Line Performance
+Analysis of a paper company's sales data, highlighting key areas for improvement. The dashboard showcases performance metrics, such as revenue, units, and unit price, revealing top-selling items like Binders in the central region, and peak sales in July and December. It also spotlights the significant impact of the top three sales reps, who generated about 50% of the total revenue.
+
+![Product Line Performance Viz](/assets/img/productlineperformance.png)
+
+[Tableau Viz Link Product Line Performance](https://public.tableau.com/shared/PB6XRNQRP?:display_count=n&:origin=viz_share_link)
+
 #### A Game of Roulette: Airplane-Wildlife Collisions 2001-2015
 Visualized airplane-wildlife collisions data to show which airports had the highest wildlife strike-related costs, the most wildlife collisions, and the most human passengers during this period. Out of over 28,000 wildlife strikes on airplanes recorded between 2001-2015, 94.7%  of collisions cost airlines and aiports $0 in aircraft repairs. However, the remaining 5.3% of collisions account for over $100 billion of damage in addition to the countless animal deaths incurred by collisions. 
 
